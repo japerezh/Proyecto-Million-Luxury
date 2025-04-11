@@ -14,7 +14,7 @@ Se presenta la solucion de la prueba de ciencia de datos el cual cumple con todo
 ## Pasos para ejecutar el proyecto después de descargarlo
 
 1. Descarga el archivo:
-   - Descarga `million_luxury_vsc.py` del archivo zip o repositorio.
+   - Descarga `code.py` del archivo zip o repositorio.
 
 2. Configura el entorno local:
    - Asegúrate de tener Python 3.8+ instalado. Verifica con `python --version` o `python3 --version` en tu terminal.
